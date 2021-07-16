@@ -1,0 +1,182 @@
+*{
+	color:#000000;
+	font-family: "Jost";
+}
+
+.header{
+	background-color: #EABE3F;
+	padding: 10px;
+	text-align: center;
+	margin: 0;
+}
+
+.catalogo{
+	font-size: 40px;
+	padding: 10px;
+	display:inline; 
+}
+
+.productos{
+	background-color: #f4f4f4; 
+	font-size: 20px;
+	padding: 10px;
+	margin: 10px
+}
+
+.productos__1{
+	background-color: #e0e0e0;
+	height: 300px;
+	width: 300px;
+	padding: 20px;
+	margin: 40px;
+	display: inline-block;
+}
+
+.productos__1-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__1:hover{
+	background-color: #EABE3F;
+	height: 300px;
+	width: 300px
+}
+
+.productos__2{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	background-color: #e0e0e0;
+	padding:20px;
+	margin:40px;
+}
+
+.productos__2-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__2:hover{
+	background-color: #EABE3F;
+	height: 300px; 
+	width: 300px;
+}
+
+.productos__3{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	background-color: #e0e0e0;
+	padding:20px;
+	margin:40px;
+}
+
+.productos__3-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__3:hover{
+	background-color: #EABE3F;
+	height: 300px; 
+	width: 300px;
+}
+
+.productos__4{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	background-color: #e0e0e0;
+	padding:20px;
+	margin:40px;
+}
+
+.productos__4-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__4:hover{
+	background-color: #EABE3F;
+	height: 300px; 
+	width: 300px;
+}
+
+.productos__5{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	background-color: #e0e0e0;
+	padding:20px;
+	margin:40px;
+}
+
+.productos__5-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__5:hover{
+	background-color: #EABE3F;
+	height: 300px; 
+	width: 300px;
+}
+
+.productos__6{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	background-color: #e0e0e0;
+	padding:20px;
+	margin:40px;
+}
+
+.productos__6-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__6:hover{
+	background-color: #EABE3F;
+	height: 300px; 
+	width: 300px;
+}
+
+.productos__7{
+	display: inline-block;
+	height: 300px;
+	width: 300px;
+	background-color: #e0e0e0;
+	padding:20px;
+	margin:40px;
+}
+
+.productos__7-titulo{
+	font-weight: 1000;
+	font-size: 25px;
+	text-align:center;
+}
+
+.productos__7:hover{
+	background-color: #EABE3F;
+	height: 300px; 
+	width: 300px;
+}
+
+.contacto{
+	background-color: #EABE3F;
+	height: 300px;
+}
+
+.contacto__h2{
+	padding:10px;
+}
+
+
